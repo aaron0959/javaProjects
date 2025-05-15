@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"FristonCollege","l":"College"},{"p":"FristonCollege","l":"Course"},{"p":"FristonCollege","l":"Student"}];updateSearchResults();
